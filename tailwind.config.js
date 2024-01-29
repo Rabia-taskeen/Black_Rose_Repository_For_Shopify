@@ -5,7 +5,8 @@ module.exports = {
     './sections/*.liquid',
     './snippets/*.liquid',
     './templates/customers/*.liquid',
-    './templates/*.liquid'
+    './templates/*.liquid',
+    './sections/template-article.liquid'
   ],
   theme: {
     extend: {},
