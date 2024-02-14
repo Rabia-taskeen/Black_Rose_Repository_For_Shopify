@@ -9,7 +9,11 @@ module.exports = {
     './sections/template-article.liquid'
   ],
   theme: {
-    extend: {},
+    extend: {
+      height: {
+        '94': '22rem'
+      }
+    },
   },
   plugins: [],
 }
